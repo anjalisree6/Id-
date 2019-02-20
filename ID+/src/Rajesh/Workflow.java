@@ -73,31 +73,6 @@ public class Workflow {
 		dropdown1.selectByValue("Manager");
 
 		d1.findElement(By.xpath("//*[@id=\"cdk-step-content-6-2\"]/div[2]/div[2]/button[3]/span")).click();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	}
 
 }
